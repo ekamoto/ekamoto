@@ -1,7 +1,6 @@
 ### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7E8DF0&height=120&section=header"/>
 
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 
 [![C#](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
 [![C#](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
@@ -55,7 +54,9 @@
 [![net](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](#)
 [![net](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](#)<br>
 [![net](https://github-readme-stats.vercel.app/api?username=ekamoto&theme=blue-green)](#)<br>
-[![net](https://github-readme-stats.vercel.app/api/top-langs/?username=ekamoto&theme=blue-green)](#)
+[![net](https://github-readme-stats.vercel.app/api/top-langs/?username=ekamoto&theme=blue-green)](#)<br>
+[![net](https://github-readme-activity-graph.cyclic.app/graph?username=ekamoto&bg_color=ffffff&color=4d4d4d&line=4c619e&point=403d3d&area=true&hide_border=true)](#)
+<br>
 
 Here are some ideas to get you started:
 
