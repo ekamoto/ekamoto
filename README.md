@@ -1,7 +1,10 @@
 ### Hi there 👋
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7E8DF0&height=120&section=header"/>
 
-
+<div align="center"> 
+<a href="https://www.linkedin.com/in/leandro-shindi-ekamoto-577b293b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div></br>
+ 
 [![C#](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
 [![C#](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
