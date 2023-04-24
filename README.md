@@ -52,7 +52,7 @@
 [![net](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)]()
 [![net](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)]()
 [![net](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)]()
-[![net](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)]()
+[![net](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)]()<br>
 [![net](https://github-readme-stats.vercel.app/api?username=ekamoto&theme=blue-green)]()<br>
 [![net](https://github-readme-stats.vercel.app/api/top-langs/?username=ekamoto&theme=blue-green)](teste)
 
